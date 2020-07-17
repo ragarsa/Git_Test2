@@ -1,12 +1,28 @@
-# Repositorio de prueba para el curso de Django 
+# Aprendiendo  markdowns
 
-##Descripción
+## Prueba 1 
+- Esta es una opción 
+- Esta es otra opción 
+- Otra
+- Otra más 
+- Casi la última
+- La útima 
 
-Este repositorio es para mostrar y describir de manera más detallada las funcionalidades
-de cada rama y **código** 
+## Prueba 2 
+1. Otra lista
+2. Otra lista
+3. Otra lista
 
+## Prueba 3
+``` 
+<h1> Hola mundo en el readme </h1>
+<p> Este es un párrafo </p>
+```
+## Prueba 4 
+Código `en línea`
 
-- 1 Permite aclarar cómo funciona el código
-- 2 Permite saber qué modulos ocupar
+## Prueba 5 
+Link  a mi github [aqui] (https://github.com/ragarsa)
 
-
+## Prueba 6 
+> Bloque identado
